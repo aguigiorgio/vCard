@@ -1,0 +1,58 @@
+*{
+		margin:0;
+		padding:0;
+	}
+	#tarjeta{
+		width: 100%;
+		max-width: 400px;
+		height: 160px;
+		background: #009688;
+		border-radius: 3px; 
+		-webkit-border-radius: 5px; 
+		-moz-border-radius: 5px;
+	}
+	#texto{
+		position: relative;
+		padding-top: 10px;
+		padding-right: 10px;
+		padding-bottom: 5px;
+		padding-left: 10px;
+		font-family: 'Roboto',Verdana;
+		font-size: 9pt;
+		color:white;
+
+	}
+	.circular{ 
+		float:left;
+		margin-top:10px;
+		margin-right: 5px;
+		margin-left:5px;
+		margin-bottom: 3px; 
+		width: 92px; 
+		height: 92px; 
+		border-radius: 120px; 
+		-webkit-border-radius: 120px; 
+		-moz-border-radius: 120px;
+		 background: url(http://u.jimdo.com/www45/o/sa399cb4d1fe88ca0/img/ia9f39e609a6c562d/1420757144/std/image.jpg) no-repeat; 
+		}
+		a:link{
+			margin:10px;
+			text-decoration: none;
+			font-family: 'Open Sans', sans-serif;
+			color:#ffffff;
+		}
+		a:visited {
+   			color: #ffffff;
+		}
+		a:hover {
+    		color: #004D40;
+		}
+		a:active {
+    		color: #ffffff;
+		}
+		.icon{
+			color:#004D40;
+		}
+		#fuente{
+			font-family: 'Open Sans', sans-serif;
+		}
